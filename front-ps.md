@@ -241,6 +241,12 @@
 
 ---
 
+## 使用背景图：
+
+> 设置css：bacoground：（url：） no-repeat 0 0;
+> 
+> ![](/assets/cssbg.jpg)
+
 ## 图片合并方案：Sprite拼图：减少网络请求，提升网页加载速度
 
 ## 大小与质量：压缩工具：无损：Mineage；有损：TinyPng
