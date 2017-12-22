@@ -10,6 +10,8 @@
 * [工具箱](/工具箱/1.md)
 
 * [筛选图片](/shaixuan.md)
+
+* [图层](/tuceng.md)
 * [抠图](1抠图/kou-tu.md)
 * [修图](2修图/xiu-tu.md)
 * [调色](3调色/diao-se.md)
