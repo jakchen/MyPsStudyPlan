@@ -14,6 +14,8 @@
 * [图层](/tuceng.md)
 
 * [图层蒙版](/tucengmb.md)
+
+* [图层混合模式](/tucenghh.md)
 * [抠图](1抠图/kou-tu.md)
 * [修图](2修图/xiu-tu.md)
 * [调色](3调色/diao-se.md)
